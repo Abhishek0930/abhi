@@ -13,9 +13,9 @@ router.post("/bfhl", (req, res) => {
     });
     let obj = {
         "is_success":true,
-        "user_id":"Nishchay_Bhutani_26082001",
-        "email":"nishchay0272.cse19@chitkara.edu.in",
-        "roll_number":"1910990272",
+        "user_id":"abhishek",
+        "email":"abishek.cse19@chitkara.edu.in",
+        "roll_number":"1910990",
         "numbers":number,
         "alphabets":alphabets
     }
